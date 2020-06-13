@@ -1,0 +1,78 @@
+=============== Mar 28, 2020 (KST) ===============
+18:28:56.297895 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:28:56.308348 db@open opening
+18:28:56.309539 version@stat F·[] S·0B[] Sc·[]
+18:28:56.316625 db@janitor F·2 G·0
+18:28:56.316669 db@open done T·8.280695ms
+18:28:56.317233 db@close closing
+18:28:56.317316 db@close done T·81.082µs
+=============== Mar 28, 2020 (KST) ===============
+18:30:31.102144 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:30:31.102352 version@stat F·[] S·0B[] Sc·[]
+18:30:31.102381 db@open opening
+18:30:31.102441 journal@recovery F·1
+18:30:31.104607 journal@recovery recovering @1
+18:30:31.112819 memdb@flush created L0@2 N·10 S·565B "HW\x04..\x9bŰ,v3":"r\x00\x00..\x9bŰ,v5"
+18:30:31.115204 version@stat F·[1] S·565B[565B] Sc·[0.25]
+18:30:31.141804 db@janitor F·3 G·0
+18:30:31.141836 db@open done T·39.441078ms
+18:44:31.559172 db@close closing
+18:44:31.560056 db@close done T·878.658µs
+=============== Mar 28, 2020 (KST) ===============
+18:44:33.239164 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:44:33.239648 version@stat F·[1] S·565B[565B] Sc·[0.25]
+18:44:33.239677 db@open opening
+18:44:33.239757 journal@recovery F·1
+18:44:33.241822 journal@recovery recovering @3
+18:44:33.250514 memdb@flush created L0@5 N·1 S·192B "Dat..ion,v12":"Dat..ion,v12"
+18:44:33.252490 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:44:33.273682 db@janitor F·4 G·0
+18:44:33.273721 db@open done T·34.029614ms
+18:48:00.355833 db@close closing
+18:48:00.355926 db@close done T·91.388µs
+=============== Mar 28, 2020 (KST) ===============
+18:48:32.556163 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:48:32.556743 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:48:32.556780 db@open opening
+18:48:32.556864 journal@recovery F·1
+18:48:32.558903 journal@recovery recovering @6
+18:48:32.560894 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:48:32.580633 db@janitor F·4 G·0
+18:48:32.580678 db@open done T·23.882697ms
+18:54:34.488417 db@close closing
+18:54:34.488629 db@close done T·206.899µs
+=============== Mar 28, 2020 (KST) ===============
+18:57:04.598727 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:57:04.599027 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:57:04.599056 db@open opening
+18:57:04.599146 journal@recovery F·1
+18:57:04.601492 journal@recovery recovering @8
+18:57:04.603596 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:57:04.672898 db@janitor F·4 G·0
+18:57:04.672948 db@open done T·73.881478ms
+18:59:07.623236 db@close closing
+18:59:07.623373 db@close done T·133.776µs
+=============== Mar 28, 2020 (KST) ===============
+18:59:27.354635 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:59:27.355729 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:59:27.355763 db@open opening
+18:59:27.355837 journal@recovery F·1
+18:59:27.357942 journal@recovery recovering @10
+18:59:27.359953 version@stat F·[2] S·757B[757B] Sc·[0.50]
+18:59:27.378702 db@janitor F·4 G·0
+18:59:27.378744 db@open done T·22.966628ms
+20:03:54.464742 db@close closing
+20:03:54.465234 db@close done T·490.436µs
+=============== Apr 1, 2020 (KST) ===============
+12:39:19.036277 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:39:19.037483 version@stat F·[2] S·757B[757B] Sc·[0.50]
+12:39:19.037515 db@open opening
+12:39:19.037600 journal@recovery F·1
+12:39:19.039485 journal@recovery recovering @12
+12:39:19.046910 memdb@flush created L0@14 N·176 S·7KiB "'\xb2\x9c..\xca\x03\xd3,v189":"\x96~\x86..\xe8\xee\xfd,v14"
+12:39:19.048795 version@stat F·[3] S·8KiB[8KiB] Sc·[0.75]
+12:39:19.068385 db@janitor F·5 G·0
+12:39:19.068425 db@open done T·30.894018ms
+=============== Apr 4, 2020 (KST) ===============
+15:40:02.802497 db@close closing
+15:40:02.803024 db@close done T·528.1µs
